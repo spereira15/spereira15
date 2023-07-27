@@ -1,7 +1,5 @@
 # Hello there! 👋 I'm Simon
 
-I'm a passionate and dedicated web developer with experience in various technologies and frameworks. My goal is to secure a Junior Software Developer position before year's end.
-
 ## Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
