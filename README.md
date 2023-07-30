@@ -1,5 +1,7 @@
 # Hello there! 👋 I'm Simon
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-1f425f.svg?style=for-the-badge&logo=appveyor)](https://spereira15.github.io/react-portfolio)
+
 ## Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
